@@ -1,0 +1,43 @@
+[BEGIN]
+
+-Made by TatsumaYakoshi
+
+Magikarp Jump Modded Save:
+
+Load game at least Once & Close before Patching
+
+(Needs ROOT)
+
+Features:
+
+Max Trainer Rank
+
+Max Food Options
+
+Max Training Options
+
+All Patterns 
+
+All Decorations
+
+All Leagues Completed
+
+All Themes
+
+Lots of Coins
+
+Lots of Diamonds
+
+Lots of Items
+
+https://YouTube.com/TatsumaYakoshi
+
+https://Instagram.com/TatsumaYakoshi
+
+[COPY_FILE]
+{"file_name":"n615Y2550v4NRV7meWh08S2n4ALL4S5c"}
+
+{"to":"/data/data/jp.pokemon.koiking/files/n615Y2550v4NRV7meWh08S2n4ALL4S5c"}
+[END]
+
+Save Edited Enjoy 
